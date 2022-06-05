@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Chaos Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Chaos Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Chaos Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Chaos Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				37
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Chaos Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Chaos_Spritesheet",
+	"position": [
+		-60,
+		150
+	],
+	"healthicon": "chaos",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		80,
+		80
+	],
+	"camera_position": [
+		110,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

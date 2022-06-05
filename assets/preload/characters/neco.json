@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Neco-Arc Idle"
+		},
+		{
+			"offsets": [
+				17,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Neco-Arc Left"
+		},
+		{
+			"offsets": [
+				-43,
+				-81
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Neco-Arc Down"
+		},
+		{
+			"offsets": [
+				-85,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Neco-Arc Right"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Neco-Arc Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Neco-Arc_Spritesheet",
+	"position": [
+		-80,
+		180
+	],
+	"healthicon": "neco",
+	"flip_x": false,
+	"healthbar_colors": [
+		251,
+		218,
+		179
+	],
+	"camera_position": [
+		110,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}
