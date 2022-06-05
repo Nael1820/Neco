@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chaos Spritesheet.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Chaos Down0000" x="0" y="0" width="512" height="652" frameX="0" frameY="-9" frameWidth="512" frameHeight="662"/>
+	<SubTexture name="Chaos Down0001" x="0" y="0" width="512" height="652" frameX="0" frameY="-9" frameWidth="512" frameHeight="662"/>
+	<SubTexture name="Chaos Down0002" x="512" y="0" width="501" height="654" frameX="-4" frameY="-8" frameWidth="512" frameHeight="662"/>
+	<SubTexture name="Chaos Down0003" x="512" y="0" width="501" height="654" frameX="-4" frameY="-8" frameWidth="512" frameHeight="662"/>
+	<SubTexture name="Chaos Down0004" x="1013" y="0" width="481" height="662" frameX="-12" frameY="0" frameWidth="512" frameHeight="662"/>
+	<SubTexture name="Chaos Down0005" x="1013" y="0" width="481" height="662" frameX="-12" frameY="0" frameWidth="512" frameHeight="662"/>
+	<SubTexture name="Chaos Down0006" x="1013" y="0" width="481" height="662" frameX="-12" frameY="0" frameWidth="512" frameHeight="662"/>
+	<SubTexture name="Chaos Down0007" x="1013" y="0" width="481" height="662" frameX="-12" frameY="0" frameWidth="512" frameHeight="662"/>
+	<SubTexture name="Chaos Down0008" x="1013" y="0" width="481" height="662" frameX="-12" frameY="0" frameWidth="512" frameHeight="662"/>
+	<SubTexture name="Chaos Idle0000" x="1494" y="0" width="482" height="639" frameX="0" frameY="-18" frameWidth="491" frameHeight="657"/>
+	<SubTexture name="Chaos Idle0001" x="1494" y="0" width="482" height="639" frameX="0" frameY="-18" frameWidth="491" frameHeight="657"/>
+	<SubTexture name="Chaos Idle0002" x="1976" y="0" width="488" height="654" frameX="-3" frameY="-3" frameWidth="491" frameHeight="657"/>
+	<SubTexture name="Chaos Idle0003" x="1976" y="0" width="488" height="654" frameX="-3" frameY="-3" frameWidth="491" frameHeight="657"/>
+	<SubTexture name="Chaos Idle0004" x="2464" y="0" width="484" height="657" frameX="-4" frameY="0" frameWidth="491" frameHeight="657"/>
+	<SubTexture name="Chaos Idle0005" x="2464" y="0" width="484" height="657" frameX="-4" frameY="0" frameWidth="491" frameHeight="657"/>
+	<SubTexture name="Chaos Idle0006" x="2948" y="0" width="473" height="652" frameX="-4" frameY="-5" frameWidth="491" frameHeight="657"/>
+	<SubTexture name="Chaos Idle0007" x="2948" y="0" width="473" height="652" frameX="-4" frameY="-5" frameWidth="491" frameHeight="657"/>
+	<SubTexture name="Chaos Idle0008" x="3421" y="0" width="449" height="642" frameX="-4" frameY="-15" frameWidth="491" frameHeight="657"/>
+	<SubTexture name="Chaos Idle0009" x="0" y="662" width="431" height="642" frameX="-22" frameY="-15" frameWidth="491" frameHeight="657"/>
+	<SubTexture name="Chaos Idle0010" x="0" y="662" width="431" height="642" frameX="-22" frameY="-15" frameWidth="491" frameHeight="657"/>
+	<SubTexture name="Chaos Idle0011" x="0" y="662" width="431" height="642" frameX="-22" frameY="-15" frameWidth="491" frameHeight="657"/>
+	<SubTexture name="Chaos Idle0012" x="431" y="662" width="438" height="642" frameX="-15" frameY="-15" frameWidth="491" frameHeight="657"/>
+	<SubTexture name="Chaos Idle0013" x="431" y="662" width="438" height="642" frameX="-15" frameY="-15" frameWidth="491" frameHeight="657"/>
+	<SubTexture name="Chaos Left0000" x="869" y="662" width="454" height="659" frameX="0" frameY="0" frameWidth="459" frameHeight="659"/>
+	<SubTexture name="Chaos Left0001" x="869" y="662" width="454" height="659" frameX="0" frameY="0" frameWidth="459" frameHeight="659"/>
+	<SubTexture name="Chaos Left0002" x="1323" y="662" width="452" height="652" frameX="-7" frameY="-7" frameWidth="459" frameHeight="659"/>
+	<SubTexture name="Chaos Left0003" x="1323" y="662" width="452" height="652" frameX="-7" frameY="-7" frameWidth="459" frameHeight="659"/>
+	<SubTexture name="Chaos Left0004" x="1775" y="662" width="441" height="643" frameX="-15" frameY="-16" frameWidth="459" frameHeight="659"/>
+	<SubTexture name="Chaos Left0005" x="1775" y="662" width="441" height="643" frameX="-15" frameY="-16" frameWidth="459" frameHeight="659"/>
+	<SubTexture name="Chaos Left0006" x="1775" y="662" width="441" height="643" frameX="-15" frameY="-16" frameWidth="459" frameHeight="659"/>
+	<SubTexture name="Chaos Left0007" x="1775" y="662" width="441" height="643" frameX="-15" frameY="-16" frameWidth="459" frameHeight="659"/>
+	<SubTexture name="Chaos Left0008" x="2216" y="662" width="441" height="643" frameX="-15" frameY="-16" frameWidth="459" frameHeight="659"/>
+	<SubTexture name="Chaos Right0000" x="2657" y="662" width="475" height="641" frameX="-3" frameY="0" frameWidth="478" frameHeight="641"/>
+	<SubTexture name="Chaos Right0001" x="2657" y="662" width="475" height="641" frameX="-3" frameY="0" frameWidth="478" frameHeight="641"/>
+	<SubTexture name="Chaos Right0002" x="3132" y="662" width="466" height="638" frameX="-3" frameY="-3" frameWidth="478" frameHeight="641"/>
+	<SubTexture name="Chaos Right0003" x="3132" y="662" width="466" height="638" frameX="-3" frameY="-3" frameWidth="478" frameHeight="641"/>
+	<SubTexture name="Chaos Right0004" x="3598" y="662" width="463" height="640" frameX="0" frameY="-1" frameWidth="478" frameHeight="641"/>
+	<SubTexture name="Chaos Right0005" x="3598" y="662" width="463" height="640" frameX="0" frameY="-1" frameWidth="478" frameHeight="641"/>
+	<SubTexture name="Chaos Right0006" x="3598" y="662" width="463" height="640" frameX="0" frameY="-1" frameWidth="478" frameHeight="641"/>
+	<SubTexture name="Chaos Right0007" x="3598" y="662" width="463" height="640" frameX="0" frameY="-1" frameWidth="478" frameHeight="641"/>
+	<SubTexture name="Chaos Right0008" x="3598" y="662" width="463" height="640" frameX="0" frameY="-1" frameWidth="478" frameHeight="641"/>
+	<SubTexture name="Chaos Up0000" x="0" y="1321" width="452" height="700" frameX="-1" frameY="0" frameWidth="453" frameHeight="700"/>
+	<SubTexture name="Chaos Up0001" x="0" y="1321" width="452" height="700" frameX="-1" frameY="0" frameWidth="453" frameHeight="700"/>
+	<SubTexture name="Chaos Up0002" x="452" y="1321" width="451" height="694" frameX="0" frameY="-6" frameWidth="453" frameHeight="700"/>
+	<SubTexture name="Chaos Up0003" x="452" y="1321" width="451" height="694" frameX="0" frameY="-6" frameWidth="453" frameHeight="700"/>
+	<SubTexture name="Chaos Up0004" x="903" y="1321" width="445" height="685" frameX="-5" frameY="-15" frameWidth="453" frameHeight="700"/>
+	<SubTexture name="Chaos Up0005" x="903" y="1321" width="445" height="685" frameX="-5" frameY="-15" frameWidth="453" frameHeight="700"/>
+	<SubTexture name="Chaos Up0006" x="903" y="1321" width="445" height="685" frameX="-5" frameY="-15" frameWidth="453" frameHeight="700"/>
+	<SubTexture name="Chaos Up0007" x="903" y="1321" width="445" height="685" frameX="-5" frameY="-15" frameWidth="453" frameHeight="700"/>
+	<SubTexture name="Chaos Up0008" x="903" y="1321" width="445" height="685" frameX="-5" frameY="-15" frameWidth="453" frameHeight="700"/>
+</TextureAtlas>
