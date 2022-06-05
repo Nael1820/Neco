@@ -1,0 +1,27 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Taxi-Chaotic",
+			"chaos",
+			[
+				80,
+				80,
+				80
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Dick",
+	"hiddenUntilUnlocked": false
+}

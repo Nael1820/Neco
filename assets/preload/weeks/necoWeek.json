@@ -1,0 +1,36 @@
+{
+	"storyName": "",
+	"difficulties": "Hard, Normal",
+	"hideFreeplay": false,
+	"weekBackground": "neco",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Great-Cats",
+			"neco",
+			[
+				251,
+				218,
+				179
+			]
+		],
+		[
+			"End-Of-The-World",
+			"neco",
+			[
+				251,
+				218,
+				179
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Neco Arc",
+	"hiddenUntilUnlocked": false
+}
